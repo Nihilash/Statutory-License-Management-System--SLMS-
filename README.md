@@ -5,7 +5,7 @@
 
 ---
 
-## 📸 Presentation Screenshots
+## Presentation Screenshots
 
 ### 1. Gateway Landing Portal
 ![Gateway Landing Portal](Presentation%20Shots/Home%20page.png)
@@ -24,7 +24,7 @@
 
 ---
 
-## 🌟 Key Features
+##  Key Features
 
 ### 1. License Tracking & Dashboard
 * **Dynamic Expiry Monitoring:** Monitors days remaining until expiration and highlights rows dynamically with status alerts (Active, Near Expiry, Expired).
@@ -47,7 +47,7 @@
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 * **Backend:** ASP.NET Core Web API (.NET 8.0)
 * **Office Integration:** EPPlus (Excel file manipulation)
 * **Frontend:** HTML5, CSS Variables, Vanilla ES6+ JS
@@ -55,7 +55,7 @@
 
 ---
 
-## 📂 Directory Layout
+##  Directory Layout
 ```text
 E:\slms\
 ├── Controllers\
@@ -81,7 +81,7 @@ E:\slms\
 
 ---
 
-## 🔄 System Execution Sequence Diagram
+##  System Execution Sequence Diagram
 
 ```mermaid
 sequenceDiagram
@@ -113,7 +113,7 @@ sequenceDiagram
 
 ---
 
-## 🚀 Local Development Setup
+##  Local Development Setup
 1. **Prerequisites:** Install [.NET 8.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0).
 2. **Clone/Unzip:** Navigate to the project root directory.
 3. **Restore & Build:**
@@ -132,7 +132,7 @@ sequenceDiagram
 
 ---
 
-## 🌐 IIS Production Deployment (Port 802)
+##  IIS Production Deployment (Port 802)
 1. **Install Hosting Bundle:** Install the [ASP.NET Core IIS Hosting Bundle](https://dotnet.microsoft.com/en-us/download/dotnet/8.0/runtime) on the server machine.
 2. **Publish Application:** Compile in Release mode:
    ```bash
@@ -147,7 +147,7 @@ sequenceDiagram
 
 ---
 
-## 🛠️ Technical Challenges & Resolution Log
+##  Technical Challenges & Resolution Log
 
 Here is a summary of the technical hurdles resolved during the development of SLMS:
 
