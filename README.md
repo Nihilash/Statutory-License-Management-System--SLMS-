@@ -7,11 +7,20 @@
 
 ## 📸 Presentation Screenshots
 
-### 1. Admin Studio Dashboard
-![Admin Studio Dashboard](screenshots/admin_dashboard.png)
+### 1. Gateway Landing Portal
+![Gateway Landing Portal](Presentation%20Shots/Home%20page.png)
 
-### 2. Login Gateway
-![Login Gateway](screenshots/login_page.png)
+### 2. Admin Authentication Login
+![Admin Authentication Login](Presentation%20Shots/Admin%20login.png)
+
+### 3. Admin Studio - Row-wise Edit Option Enabler
+![Row-wise Edit Option Enabler](Presentation%20Shots/Row%20wise%20edit%20option%20enabler.png)
+
+### 4. Admin Studio - Inline Edit-enabled Table
+![Inline Edit-enabled Table](Presentation%20Shots/admin%20editenabled%20table.png)
+
+### 5. Guest Portal View
+![Guest Portal View](Presentation%20Shots/guest%20login.png)
 
 ---
 
